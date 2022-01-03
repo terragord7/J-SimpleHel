@@ -7,10 +7,10 @@
 # - t: time
 # - dt: time step
 # - x_curr: current state vector
-# - u0: initial control vector 
+# - u0: initial control vector
 #
 # OUTPUT
-# - xnew: new state vector after integration
+# - x_new: new state vector after integration
 #
 # ------------------------------------------------------------------------------
 

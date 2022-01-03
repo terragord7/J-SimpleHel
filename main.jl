@@ -16,12 +16,12 @@
 # rotor, and empennage. The trim, linearization routines, and overall
 # architecture of the simulation follows the teachings of Dr. Joe Horn at Penn
 # State. A more detailed description of the model, including references can be
-# found in Ref. 1.
+# found in Ref. 1. If using the code, please cite Ref. 1. 
 #
 # REFERENCES
 # 1) Saetti, U., and Horn, J. F., "Flight Simulation and Control using the Julia
-# Language", AIAA Scitech Forum, San Diego, CA, Jan 3-7, 2022.
-# DOI: https://arc.aiaa.org/doi/10.2514/6.2022-2354.
+#    Language", AIAA Scitech Forum, San Diego, CA, Jan 3-7, 2022.
+#    DOI: https://arc.aiaa.org/doi/10.2514/6.2022-2354.
 #
 # STATES             | NINDICES    | DESCRIPTION
 # ______________________________________________________________________________

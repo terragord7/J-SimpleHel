@@ -45,10 +45,6 @@ function simulate_DI(acfun,finp,Tsim,dt,x0,u0)
         sol=rk4(acfun,finp,time[i],dt,state[:,i],u0)
         state[:,i+1]=sol
     end
-    # plot simulation
-    #gr(size=(1000,1000))
-    #plt3=plot(time,state[4,:],linewidth=2,xaxis="Time [s]",yaxis="Pitch rate, q [rad/s]",label="A",reuse = false)
-    #display(plt3)
     #
     return state, time
 end

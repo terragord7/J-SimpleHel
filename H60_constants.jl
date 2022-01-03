@@ -1,6 +1,6 @@
 # DESCRIPTION
-# This file contains the helicopter parameters and stores them into a data
-# structure. Always re-run DI_design.jl after modifying the aircraft parameters.
+# This file contains the helicopter parameters.. Always re-run DI_design.jl
+# after modifying the aircraft parameters.
 
 # ------------------------- MISCELLANEOUS CONSTANTS ----------------------------
 

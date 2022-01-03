@@ -5,6 +5,8 @@
 # Trims and linearizes the rotorcraft model at incremental flight speeds, and
 # generates the gains of the dynamic inversion controller. Always run after
 # modifying the aircraft parameters in the AIRCRAFTNAME_constants.jl file.
+#
+# ------------------------------------------------------------------------------
 
 # include packages
 #using DifferentialEquations
